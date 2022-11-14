@@ -1,6 +1,6 @@
 ### Hi ，I am a Chinese developer .
 
-🔭 I’m currently working on android app and JavaEE developing now ,but ,I’m interesting in all of the charming technolgies.
+🔭 I’m currently working on android app and JavaEE developing ,but ,I’m interesting in all of the charming technolgies.
 
 
 
