@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi ，I am a Chinese developer,focus on android app and JavaEE developing now ,but ,I’m interesting in all of the charming technolgies.
+
+
 
 <!--
 **flyWithWater/flyWithWater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
