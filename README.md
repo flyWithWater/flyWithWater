@@ -3,7 +3,7 @@
 🔭 I’m currently working on android app and JavaEE developing ,but ,I’m interesting in all of the charming technolgies.
 
 🌱🌱🌱[handsome_android_imporve](https://github.com/flyWithWater/handsome_android_imporve)
-     包括Java、Android、Linux、flutter等等相关的学习内容整理，以XMind的形式呈现，持续更新；
+     including the content I've learned, such as Java, android, linux,flutter ...etc. I would like to oragnizese them in xmind style and submit them here.
 
 <!--
 **flyWithWater/flyWithWater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
